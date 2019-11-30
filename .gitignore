@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# sketchbook
+*.psd*
+/*/*.psd*
 #data
 /data
 

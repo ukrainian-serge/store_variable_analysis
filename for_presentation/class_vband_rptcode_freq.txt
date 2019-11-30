@@ -1,0 +1,51 @@
+[VARIABLE, FREQUENCY COUNT] OF:
+
+    CLASSES(7 GROUPINGS),
+
+    VOLUME BANDS(6 GROUPINGS), 
+
+    RPT CODES(3 GROUPINGS)
+
+TOP VARIABLE FREQUENCES IN CLASS GROUPINGS
+'multi_units', '6/7'
+'multi_value', '5/7'
+'trans_cnt_exchg_in', '4/7'
+'ft_tenure_days', '4/7'
+'cp_total_email_trans', '3/7'
+'cp_total_trans', '3/7'
+'am_tenure_days', '3/7'
+'cp_valid_emails', '3/7'
+'cp_valid_mailing_address', '3/7'
+'accessory_shoe_trees_units', '3/7'
+
+TOP VARIABLE FREQUENCES IN VOLUME_BAND GROUPINGS
+'mark_down_amt_ty', '4/6'
+'special_order_amt', '4/6'
+'trans_cnt_exchg_in', '3/6'
+'ft_tenure_days', '3/6'
+'cp_total_email_trans', '3/6'
+'accessory_shoe_trees_value', '3/6'
+'cp_valid_emails', '3/6'
+'cp_valid_mailing_address', '3/6'
+'accessory_shoe_trees_units', '3/6'
+'cp_total_trans', '3/6'
+
+TOP VARIABLE FREQUENCES IN RPT_CODE GROUPINGS
+'multi_units', '3/3'
+'trans_cnt_exchg_in', '2/3'
+'cp_valid_emails', '2/3'
+'cp_total_trans', '2/3'
+'trans_cnt_exchg_out', '2/3'
+'cp_total_email_trans', '2/3'
+'special_order_amt', '2/3'
+'cp_valid_mailing_address', '2/3'
+'accessory_shoe_care_value', '2/3'
+'multi_value', '2/3'
+
+VARIABLES THAT PERSIST ACCROSS TOP TEN AND ACROSS ALL GROUPINGS
+trans_cnt_exchg_in
+cp_total_email_trans
+cp_total_trans
+cp_valid_emails
+cp_valid_mailing_address
+
